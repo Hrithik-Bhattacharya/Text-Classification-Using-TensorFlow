@@ -1,0 +1,1 @@
+This project demonstrates a basic implementation of text classification using TensorFlow. It uses deep learning techniques to categorize text data into predefined classes. The workflow includes data preprocessing, model building, training, evaluation, and prediction. It’s designed to be easy to understand and extend for custom datasets or classification tasks.
